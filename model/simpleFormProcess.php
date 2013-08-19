@@ -15,4 +15,6 @@ BTW... you entered these:<br>
 <p>Name: <?php echo $name;?></p>
 <p>Age: <?php echo $age;?></p>
 
+Example for short tags: <?= $age ?> <br>
+
 <a href="../simpleForm.html">Go Back</a>
