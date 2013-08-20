@@ -8,6 +8,13 @@
     }else{
         echo 'I say hello only to Mr. Prashmit Tanay';
     }
+    
+    
+    # something new
+    
+    // old and boring
+    
+    /* same old same old*/
 ?>
 
 BTW... you entered these:<br>
